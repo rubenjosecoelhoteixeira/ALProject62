@@ -1,0 +1,19 @@
+{
+  "id": "5dc69efc-4f93-45b3-a751-62922569a38a",
+  "name": "62.CreatingReport",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "application": "15.0.0.0",
+  "showMyCode": true,
+  "runtime": "4.0",
+  "target": "OnPrem"
+}
